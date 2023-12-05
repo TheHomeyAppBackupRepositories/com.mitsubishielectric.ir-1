@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>assets/icon</title>
+    <g id="/assets/icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mitsubishi_logo" transform="translate(2, 0)" fill="#E60012" fill-rule="nonzero">
+            <path d="M298,0 L399.816667,172.574879 L298,345.149758 L196.183333,173.816425 L298,0 Z M298,345.149758 L496.666667,345.149758 L596,514 L397.333333,514 L298,345.149758 Z M298,345.149758 L99.3333333,345.149758 L0,514 L198.666667,514 L298,345.149758 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
