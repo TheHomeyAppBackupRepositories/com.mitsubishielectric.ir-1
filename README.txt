@@ -1,5 +1,3 @@
-Connect your Mitsubishi Electric Air conditioning system to Homey.
+Manage your Mitsubishi air conditioner seamlessly with the Homey app. Turn the airco on or off, set the temperature, and adjust the mode—all through infrared technology. No need for a separate remote; it's all integrated.
 
-Turn your HVAC unit on or off, set the temperature, and adjust the mode—all through infrared technology. No need for a separate remote; it's all integrated.
-
-This app allows Homey Bridge and Homey Pro to control Mitsubishi Electric AC units via Infrared, so you can control and automate them in the Homey app. Homey Pro or Homey Bridge need to be in te same room as your AC system, as infrared signals to not travel through walls.
+The Homey app is straightforward and efficient, optimizing both comfort and energy use. Customize your indoor climate with ease using the Mitsubishi Airco app for Homey.
